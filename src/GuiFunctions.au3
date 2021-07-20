@@ -1,5 +1,5 @@
 Func _guiOverlay()
-    $hGui = GUICreate( '', @DesktopWidth * 3, $iScrollablePixelFromTop, 0, 0, $WS_POPUP, $WS_EX_TOPMOST )
+    $hGui = GUICreate( '', @DesktopWidth * 3, $iScrollablePixelFromTop, 0, 0, $WS_POPUP, $WS_EX_TOPMOST + $WS_EX_TOOLWINDOW )
     WinSetTrans( $hGui, '', 1)
     GUISetState( @SW_SHOW )
     GUIRegisterMsg( $WM_MOUSEWHEEL, '_windowsMessage_mouseWheel' )
