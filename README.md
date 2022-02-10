@@ -13,7 +13,7 @@
 ![os](https://img.shields.io/badge/os-windows-yellow.svg?style=flat-square&logo=windows)
 ![editor](https://img.shields.io/badge/editor-VSCode-blueviolet.svg?style=flat-square&logo=visual-studio-code)
 
-[Description](#description) | [Features](#features) | [Getting started](#getting-started) | [Configuration](#configuration) | [Keyboard shortcuts](#keyboard-shortcuts) | [Contributing](#contributing) | [License](#license) | [Acknowledgements](#acknowledgements)
+[Description](#description) | [Features](#features) | [Getting started](#getting-started) | [Configuration](#configuration) | [FAQ](#faq) | [Contributing](#contributing) | [License](#license) | [Acknowledgements](#acknowledgements)
 
 ## Description
 
@@ -52,15 +52,38 @@ Then, run or compile the program.
 
 The scroll action only works if your mouse cursor position is on the very top of the browser. This is the indicator for the programm that it should scroll through the tabs, otherwise it would scroll the content of the page/tab (default behavior of the browser).
 
-## Configuration
-
-No configuration needed.
-
-## Keyboard shortcuts
+#### *Keyboard shortcuts*
 
 | Action | Shortcut   |
 | :---   | :---       |
 | Exit   | `Ctrl+F10` |
+
+## Configuration
+
+No configuration needed.
+
+## FAQ
+
+<details>
+<summary><i>Frequently Asked Questions</i></summary><br>
+
+  <details>
+  <summary><code>1. How to [...]</code></summary><p>
+
+  **Q:** Is there a frequently asked question already?<br>
+  **A:** No, not yet.
+
+  <br></p></details>
+
+  <details>
+  <summary><code>2. How to [...]</code></summary><p>
+
+  **Q:** [...]?<br>
+  **A:** [...].
+
+  <br></p></details>
+
+</details>
 
 ## Contributing
 
