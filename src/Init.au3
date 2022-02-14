@@ -1,1 +1,1 @@
-HotKeySet('^{F10}', '_exit')
+HotKeySet('^{F10}', '_Exit')

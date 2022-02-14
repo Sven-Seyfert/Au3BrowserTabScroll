@@ -1,10 +1,10 @@
-Func _exit()
+Func _Exit()
     GUIDelete($hGui)
 
     Exit
 EndFunc
 
-Func _isBrowserWindowActive()
+Func _IsBrowserWindowActive()
     Local $sTitle = WinGetTitle('[ACTIVE]')
 
     Local Const $sChrome  = 'Google Chrome'
@@ -17,7 +17,7 @@ Func _isBrowserWindowActive()
     Return True
 EndFunc
 
-Func _isMouseInScrollableArea()
+Func _IsMouseInScrollableArea()
     Local $iYPosition = MouseGetPos()[1]
 
     If $iYPosition >= $iScrollablePixelFromTop Then

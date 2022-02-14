@@ -1,11 +1,11 @@
-Func _guiOverlay()
+Func _GuiOverlay()
     $hGui = GUICreate('', @DesktopWidth * 3, $iScrollablePixelFromTop, 0, 0, $WS_POPUP, $WS_EX_TOPMOST + $WS_EX_TOOLWINDOW)
     WinSetTrans($hGui, '', 1)
     GUISetState(@SW_SHOW)
-    GUIRegisterMsg($WM_MOUSEWHEEL, '_windowsMessage_mouseWheel')
+    GUIRegisterMsg($WM_MOUSEWHEEL, '_WindowsMessage_MouseWheel')
 EndFunc
 
-Func _windowsMessage_mouseWheel($hWnd, $iMsg, $wParam, $lParam)
+Func _WindowsMessage_MouseWheel($hWnd, $iMsg, $wParam, $lParam)
     Local $iMouseWheelDirection = _WinAPI_HiWord($wParam) / 120
 
     If $iMouseWheelDirection ==  1 Then $bIsWheelUp   = True
