@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Go to [legend](#legend---types-of-changes) for further information about the types of changes.
 
+## [Unreleased]
+
 ## [1.5.0] - 2022-02-14
 
 ### Changed
@@ -60,6 +62,7 @@ Go to [legend](#legend---types-of-changes) for further information about the typ
 
 - All repository data and dependencies.
 
+[Unreleased]: https://github.com/Sven-Seyfert/Au3BrowserTabScroll/compare/v1.5.0...HEAD
 [1.5.0]: https://github.com/Sven-Seyfert/Au3BrowserTabScroll/compare/v1.4.0...v1.5.0
 [1.4.0]: https://github.com/Sven-Seyfert/Au3BrowserTabScroll/compare/v1.3.0...v1.4.0
 [1.3.0]: https://github.com/Sven-Seyfert/Au3BrowserTabScroll/compare/v1.2.0...v1.3.0
