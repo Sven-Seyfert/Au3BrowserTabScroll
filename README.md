@@ -1,7 +1,7 @@
 #####
 
 <p align="center">
-    <img src="images/icon.png" width="80" />
+    <img src="media/images/icon.png" width="80" />
     <h2 align="center">Welcome to <code>Au3BrowserTabScroll</code>【ツ】</h2>
 </p>
 
@@ -25,11 +25,11 @@ Simply scroll through your browser tabs by the mouse wheel.
 
 **In Chrome:**
 
-![ChromeTabs](screenshots/chromeTabs.gif)
+![ChromeTabs](media/screenshots/chromeTabs.gif)
 
 **In Firefox:**
 
-![FirefoxTabs](screenshots/firefoxTabs.gif)
+![FirefoxTabs](media/screenshots/firefoxTabs.gif)
 
 ## Getting started
 
@@ -39,13 +39,13 @@ A computer mouse with a mouse wheel 😄 .
 
 #### *Installation*
 
-**Variant 1 - Run the EXE**
+Variant 1 - Run the EXE:
 
 Starting the EXE `build\Au3BrowserTabScroll.exe` which is compiled with `#AutoIt3Wrapper_UseX64=y` and `#AutoIt3Wrapper_UseUpx=n` (the default expected system is x64).
 
-**Variant 2 - Compile it on your own**
+Variant 2 - Compile it on your own:
 
-Open file `src\Au3BrowserTabScroll.au3`, adjust the *#AutoIt3Wrapper compiler information* if you want to. For example you could change `#AutoIt3Wrapper_UseUpx=n` from no (n) to yes (y), etc.
+Open file `src\Main.au3`, adjust the *#AutoIt3Wrapper compiler information* if you want to. For example you could change `#AutoIt3Wrapper_UseUpx=n` from no (n) to yes (y), etc.
 Then, run or compile the program.
 
 #### *Usage*
