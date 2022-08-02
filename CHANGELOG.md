@@ -11,6 +11,12 @@ Go to [legend](#legend---types-of-changes) for further information about the typ
 
 ## [Unreleased]
 
+## [1.6.0] - 2022-08-02
+
+### Added
+
+- Unreleased section to changelog file.
+
 ## [1.5.0] - 2022-02-14
 
 ### Changed
@@ -62,7 +68,8 @@ Go to [legend](#legend---types-of-changes) for further information about the typ
 
 - All repository data and dependencies.
 
-[Unreleased]: https://github.com/Sven-Seyfert/Au3BrowserTabScroll/compare/v1.5.0...HEAD
+[Unreleased]: https://github.com/Sven-Seyfert/Au3BrowserTabScroll/compare/v1.6.0...HEAD
+[1.6.0]: https://github.com/Sven-Seyfert/Au3BrowserTabScroll/compare/v1.5.0...v1.6.0
 [1.5.0]: https://github.com/Sven-Seyfert/Au3BrowserTabScroll/compare/v1.4.0...v1.5.0
 [1.4.0]: https://github.com/Sven-Seyfert/Au3BrowserTabScroll/compare/v1.3.0...v1.4.0
 [1.3.0]: https://github.com/Sven-Seyfert/Au3BrowserTabScroll/compare/v1.2.0...v1.3.0
